@@ -1,3 +1,4 @@
-# NoChristmas.github.io
+# For training java 👋
 
-프로그래머스 및 백준 Repository입니당
+Since 2023-03-15
+:)
