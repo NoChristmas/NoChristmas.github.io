@@ -15,16 +15,25 @@ Since 2023-03-15
 </div>
 
 
-# [프로젝트 이름]
+# [Java Training Repository]
 
-[프로젝트 이름]은 [프로젝트에 대한 간단한 설명]입니다.
+java를 이용한 코딩을 해 보는 Repository 입니다. 
 
-## 설치 및 실행 방법
 
-1. [설치 방법에 대한 설명]
-2. [실행 방법에 대한 설명]
+## Training 영역
+
+1. Baekjoon
+2. 프로그래머스
 
 ## 사용 예시
 
 ```java
-[코드 예시]
+import java.util.Programmers;
+import java.util.BaekjoonCoding;
+
+public class ForTraining{
+  public static void main(string[] args){
+    System.out.println("Training AND Test Page");
+  
+  }
+}
