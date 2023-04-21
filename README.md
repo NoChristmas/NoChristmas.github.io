@@ -25,7 +25,7 @@ java를 이용한 코딩을 해 보는 Repository 입니다.
 1. Baekjoon
 2. 프로그래머스
 
-## 사용 예시
+## java code....
 
 ```java
 import java.util.Programmers;
@@ -33,7 +33,15 @@ import java.util.BaekjoonCoding;
 
 public class ForTraining{
   public static void main(string[] args){
+    Programmers pg = new Programmers();
+    BaekjoonCoding bj = new BaekjoonCoding();
+    
     System.out.println("Training AND Test Page");
-  
+      
   }
 }
+
+
+```
+
+# 위에 코드는 장난입니당....
