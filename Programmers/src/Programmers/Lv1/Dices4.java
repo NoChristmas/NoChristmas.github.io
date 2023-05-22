@@ -1,4 +1,4 @@
-package Solving;
+package Programmers.Lv1;
 
 public class Dices4 {
     public static void main(String[] args){
