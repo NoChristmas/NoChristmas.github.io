@@ -20,7 +20,7 @@ public class TrainQueue {
         System.out.println(queue.peek());
         queue.poll();
         System.out.println(queue.peek());
-
+        queue.remove(); //Exception Error 발생
         System.out.println(queue.size());
     }
 
