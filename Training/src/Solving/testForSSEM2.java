@@ -40,6 +40,5 @@ public class testForSSEM2 {
 
         totalTime +=String.valueOf(totalHour)+String.valueOf(totalMin)+String.valueOf(totalSec);
         System.out.println(totalTime);
-    
     }
 }
