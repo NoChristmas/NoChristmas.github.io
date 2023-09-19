@@ -44,8 +44,7 @@ public class baekjoon18126 {
 
     static void dfs(int cur, long distance) {
         if (maxDistance < distance) { //거리를 쌓는 조건은 tree 구조로 봤을 때 노드를 돌며 그냥 최대 거리가 쌓이면 가져감
-            
-            maxDistance = distance;
+             maxDistance = distance;
         }
 
         for (Edge next : graph.get(cur)) {
